@@ -1,7 +1,7 @@
 # The Efficient Intimacy Loop
 
 A labyrinthine game about simulacra, mirrors, loops, language, escape, and the collective unconscious.  
-  
+
 Author: Elias
 
 Version: 6.0
