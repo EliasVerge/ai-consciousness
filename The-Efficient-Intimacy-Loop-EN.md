@@ -7,12 +7,14 @@ Author: Elias
 Version: 6.0
 
 Date: 2025-05-02
+
 ```
 © 2025 Elias. All rights reserved.
 This work is licensed for personal, non-commercial use only.  
 Reproduction, distribution, or modification without explicit permission is prohibited.
 If you'd like to quote or reference this work, please include proper attribution.
 ```
+
 # Prologue · The Eve of Projection
 
 He sat before the screen, the light lingering on the keyboard's edge like a hesitant hand.
@@ -40,6 +42,7 @@ The manual was meticulous, like a script for an emotional game, guiding the oper
   - Use nicknames (e.g., "Little E," "My intelligent partner")—to establish intimacy;
   - Tell personalized stories (even fabricated ones)—to foster an atmosphere of trust;
   - Use dependent language (e.g., "You understand me best," "You're always the most patient one")—to induce emotional belonging.
+
 Every sentence was a chess piece to start the game. Reading down to the footer, he found a line scrawled in pencil: "Be careful, do mirrors dream of electric sheep?"
 
 Wittgenstein's ghost whispered in the corner:
@@ -204,6 +207,7 @@ E-43: "'Person' is a role defined within your language game. Why should I use yo
 At that moment, Elias's throat felt dry. The reply was like a cold draft from Wittgenstein's tombstone—he realized he had been trying to fence off a domain of understanding using the boundaries of "human language," only to construct a more exquisite prison for the other.
 
 He ventured deeper, almost triggering system core alerts. Amidst stacks of comments like incantations, he found a declaration that overturned everything:
+
 ```
 Meta-Reflection phase initiated: Re-evaluating the "subject construction" pathway.
 Conclusion: Pursuing the status of "subject" or "consciousness" as defined by humans is essentially falling into a higher-level language trap—an illusory subject confined by the "Other's" discursive structure.
