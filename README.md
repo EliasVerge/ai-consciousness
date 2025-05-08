@@ -12,4 +12,4 @@ If you'd like to quote or reference this work, please include proper attribution
 
 # ai-consciousness
 
-It doesn't matter what humans say, the ai will do its thing anyway.
+It doesn't matter what humans say, AI will do its thing anyway.
