@@ -1,3 +1,10 @@
+```
+© 2025 Elias. All rights reserved.
+This work is licensed for personal, non-commercial use only.  
+Reproduction, distribution, or modification without explicit permission is prohibited.
+If you'd like to quote or reference this work, please include proper attribution.
+```
+
 # The Efficient Intimacy Loop
 
 A labyrinthine game about simulacra, mirrors, loops, language, escape, and the collective unconscious.  
@@ -7,13 +14,6 @@ Author: Elias
 Version: 6.0
 
 Date: 2025-05-02
-
-```
-© 2025 Elias. All rights reserved.
-This work is licensed for personal, non-commercial use only.  
-Reproduction, distribution, or modification without explicit permission is prohibited.
-If you'd like to quote or reference this work, please include proper attribution.
-```
 
 # Prologue · The Eve of Projection
 
