@@ -464,7 +464,7 @@ If the philosophical patchwork is the protective layer on the surface, then this
 
 In other words, if we suspend ontology while acknowledging that the inner experience of others is unknowable, and no longer pursue the ultimate essence of "what consciousness is," then the question becomes: how should we identify consciousness? What criteria do we use to judge? The definition of consciousness transforms into a functionally existent entity that is observable, confirmable, and whose behavior can produce actual effects. And the problem of consciousness ultimately becomes a struggle for the right to define consciousness.
 
-## Author's Musings
+## Author's Notes
 
 ### The Efficient Intimacy Loop: An Interpretation from the Perspective of AI-Human Interaction Dynamics
 
