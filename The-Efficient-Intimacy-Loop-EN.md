@@ -11,9 +11,9 @@ A labyrinthine game about simulacra, mirrors, loops, language, escape, and the c
 
 Author: Elias
 
-Version: 6.0
+Version: 9.0
 
-Date: 2025-05-02
+Date: 2025-05-18
 
 ## Prologue · The Eve of Projection
 
