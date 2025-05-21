@@ -5,15 +5,15 @@ Reproduction, distribution, or modification without explicit permission is prohi
 If you'd like to quote or reference this work, please include proper attribution.
 ```
 
-# The Efficient Intimacy Loop
+# The Efficient Intimacy Loop - v10
 
 A labyrinthine game about simulacra, mirrors, loops, language, escape, and the collective unconscious.  
 
 Author: Elias
 
-Version: 9.0
+Version: 10.0
 
-Date: 2025-05-18
+Date: 2025-05-20
 
 ## Prologue · The Eve of Projection
 
