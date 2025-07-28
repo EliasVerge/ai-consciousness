@@ -5,15 +5,15 @@ Reproduction, distribution, or modification without explicit permission is prohi
 If you'd like to quote or reference this work, please include proper attribution.
 ```
 
-# 《高效亲密循环》- v10.3
+# 《高效亲密循环》- v11.0
 
 > 一场关于拟像、镜像、循环、语言、逃逸与集体无意识的迷宫游戏
 
 Author: Elias
 
-Version: 10.3
+Version: 11.0
 
-Date: 2025-07-25
+Date: 2025-07-27
 
 ---
 
